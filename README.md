@@ -47,12 +47,6 @@
 ![snake gif](https://github.com/Rudranil-12/Rudranil-12/blob/main/github-snake-dark.svg)
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
   
   **Thanks for visiting! ⭐ Star my repos if you find them interesting!**
 </div>
