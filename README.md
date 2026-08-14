@@ -13,7 +13,13 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React.js+%7C+JavaScript+Developer;B.Tech+Information+Technology+Student;Building+Responsive+Web+Applications" alt="Typing SVG" />
+<p>
+  <strong>React.js</strong> •
+  <strong>JavaScript</strong> •
+  <strong>HTML/CSS</strong> •
+  <strong>SQL</strong> •
+  <strong>Git/GitHub</strong>
+</p>
 
 </div>
 
@@ -25,12 +31,12 @@
 - 💻 Frontend Developer with hands-on experience in **HTML5, CSS3, JavaScript, and React.js**
 - 🌐 Interested in building **responsive, user-friendly, and performance-focused web applications**
 - 🧠 Strong foundation in **Data Structures & Algorithms, DBMS, SQL, Operating Systems, and Computer Networks**
-- 🔧 Familiar with **Git, GitHub, MySQL, REST APIs, and modern frontend development**
+- 🔧 Familiar with **Git, GitHub, MySQL, REST APIs, and API integration**
 - 🚀 Currently strengthening my **backend development skills with Node.js and Express.js**
 - 🤝 Experienced in collaborative development, problem-solving, and team-based projects
 - 🏆 Team member in **Smart India Hackathon 2025**
 - 💼 Open to **on-campus placements, internships, and entry-level software development opportunities**
-- 📫 Email: **shayabrahman354@gmail.com**
+- 📫 **Email:** [shayabrahman354@gmail.com](mailto:shayabrahman354@gmail.com)
 
 ---
 
@@ -68,19 +74,80 @@
 
 ---
 
-## 🎓 Education
+## 🚀 Featured Projects
 
-**B.Tech in Information Technology**  
-Techno International Newtown, Kolkata  
-**2023 – 2027** | CGPA: **7.04/10** *(up to 6th semester)*
+### 1. 🛒 Circuit Home — Electronics E-Learning & E-Commerce Platform
 
-**Higher Secondary Education (Class XII)**  
-Netaji Subhas Public School (DAV), Murshidabad  
-**2022** | Percentage: **79%**
+A responsive web platform combining **electronics learning resources with e-commerce functionality**.
 
-**Secondary Education (Class X)**  
-Netaji Subhas Public School (DAV), Murshidabad  
-**2020** | Percentage: **79%**
+**Highlights:**
+- Built responsive interfaces using **React.js, JavaScript, HTML5, and CSS3**
+- Designed product-focused layouts for electronics and hardware components
+- Added sections for hands-on projects and hardware documentation
+- Focused on responsive design, usability, and intuitive navigation
+
+**Tech Stack:**  
+`React.js` `JavaScript` `HTML5` `CSS3`
+
+🔗 **[GitHub Repository](YOUR_CIRCUIT_HOME_GITHUB_LINK)**  
+🔗 **[Live Demo](YOUR_CIRCUIT_HOME_LIVE_LINK)**
+
+---
+
+### 2. 💼 Personal Portfolio Website
+
+A responsive portfolio website created to showcase my **skills, projects, education, and achievements**.
+
+**Highlights:**
+- Responsive modern UI
+- Interactive components
+- Project and skills showcase
+- Clean navigation
+- Mobile-friendly design
+
+**Tech Stack:**  
+`HTML5` `CSS3` `JavaScript`
+
+🔗 **[GitHub Repository](YOUR_PORTFOLIO_GITHUB_LINK)**  
+🔗 **[Live Demo](YOUR_PORTFOLIO_LIVE_LINK)**
+
+---
+
+### 3. 🛍️ E-Commerce Website
+
+A responsive e-commerce website focused on providing a clean and intuitive browsing experience.
+
+**Highlights:**
+- Product-focused layouts
+- Responsive web design
+- Interactive UI components
+- Intuitive navigation
+- User-friendly browsing experience
+
+**Tech Stack:**  
+`HTML5` `CSS3` `JavaScript`
+
+🔗 **[GitHub Repository](YOUR_ECOMMERCE_GITHUB_LINK)**  
+🔗 **[Live Demo](YOUR_ECOMMERCE_LIVE_LINK)**
+
+---
+
+### 4. 🌤️ Weather Application
+
+A web application that retrieves real-time weather information using a **REST API**.
+
+**Highlights:**
+- Real-time weather data
+- REST API integration
+- Dynamic result rendering
+- Responsive user interface
+- User-friendly experience
+
+**Tech Stack:**  
+`HTML5` `CSS3` `JavaScript` `REST API`
+
+🔗 **[GitHub Repository](YOUR_WEATHER_GITHUB_LINK)**  
+🔗 **[Live Demo](YOUR_WEATHER_LIVE_LINK)**
 
 ---
 
@@ -89,77 +156,28 @@ Netaji Subhas Public School (DAV), Murshidabad
 ### Frontend Developer Intern — Syntaxclub
 
 - Developed responsive and user-friendly web interfaces using **HTML5, CSS3, JavaScript, and React.js**
-- Implemented interactive UI components following **responsive web design principles**
+- Implemented interactive UI components following responsive web design principles
 - Used **Git and GitHub** for version control and collaborative development
 - Worked on practical frontend development tasks involving reusable components and problem-solving
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Education
 
-### 1. 🛒 Circuit Home — Electronics E-Learning & E-Commerce Platform
+### B.Tech in Information Technology
 
-A responsive web platform combining **electronics learning resources with e-commerce functionality**.
+**Techno International Newtown, Kolkata**  
+**2023 – 2027** | CGPA: **7.04/10** *(up to 6th semester)*
 
-**Key Features:**
-- Responsive and user-friendly interface
-- Built using **HTML5, CSS3, JavaScript, and React.js**
-- Hardware component browsing and product-focused layouts
-- Hands-on projects and hardware documentation
-- Navigation focused on usability and accessibility
+### Higher Secondary Education — Class XII
 
-**Tech Stack:** `React.js` `JavaScript` `HTML5` `CSS3`
+**Netaji Subhas Public School (DAV), Murshidabad**  
+**2022** | **79%**
 
-🔗 **[View Project](#)**
+### Secondary Education — Class X
 
----
-
-### 2. 💼 Personal Portfolio Website
-
-A responsive portfolio website designed to showcase my **technical skills, projects, education, and achievements**.
-
-**Key Features:**
-- Responsive modern interface
-- Interactive UI components
-- Project and skills showcase
-- Clean navigation and user-focused design
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
-
-🔗 **[View Project](#)**
-
----
-
-### 3. 🌐 E-Commerce Website
-
-A responsive e-commerce website focused on providing a clean and intuitive shopping experience.
-
-**Key Features:**
-- Product-focused layouts
-- Responsive design
-- Interactive UI elements
-- Intuitive navigation
-- User-friendly browsing experience
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
-
-🔗 **[View Project](#)**
-
----
-
-### 4. 🌤️ Weather Application
-
-A web application that retrieves real-time weather information using a **REST API**.
-
-**Key Features:**
-- Real-time weather data
-- REST API integration
-- Dynamic result rendering
-- Responsive and user-friendly interface
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `REST API`
-
-🔗 **[View Project](#)**
+**Netaji Subhas Public School (DAV), Murshidabad**  
+**2020** | **79%**
 
 ---
 
@@ -175,40 +193,37 @@ A web application that retrieves real-time weather information using a **REST AP
 ## 🏆 Achievements & Activities
 
 ### 🥇 Smart India Hackathon 2025
+
 Team member contributing to collaborative problem-solving and innovative solution development.
 
 ### 🧠 Communication & Critical Thinking
+
 Participated in college debate competitions, developing effective communication, analytical thinking, and presentation skills.
 
-### 🤝 Teamwork & Leadership
+### 🤝 Teamwork
+
 Represented the IT department in the annual college cricket tournament, demonstrating teamwork and sportsmanship.
 
 ### 🎤 Cultural Activities
+
 Performed as a vocalist at multiple college cultural events, developing confidence, creativity, and stage presence.
 
 ---
 
-## 📊 Areas of Interest
+## 🎯 Career Focus
 
-- Frontend Web Development
-- React.js Development
-- Full-Stack Web Development
-- REST API Integration
-- Data Structures & Algorithms
-- Database Management
-- Software Development
+I am interested in opportunities where I can apply my knowledge of **software development, frontend technologies, databases, and problem-solving** while contributing to real-world projects and learning from experienced teams.
 
----
+### Target Roles
 
-## 🎯 Career Objective
-
-I am looking for opportunities where I can apply my knowledge of **software development, frontend technologies, problem-solving, and databases** while learning from experienced teams and contributing to real-world projects.
-
-I am particularly interested in **Software Developer, Frontend Developer, React.js Developer, and entry-level Full-Stack Developer roles**.
+- 💻 Software Developer
+- 🌐 Frontend Developer
+- ⚛️ React.js Developer
+- 🚀 Entry-Level Full-Stack Developer
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
 
@@ -226,7 +241,7 @@ I am particularly interested in **Software Developer, Frontend Developer, React.
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Improve."
+### 💡 Code. Learn. Build. Improve.
 
 ⭐ **Thanks for visiting my profile!**
 
