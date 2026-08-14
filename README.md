@@ -1,62 +1,233 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shayab%20Rahman&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=%20Developer%20" width="100%" alt="Header" />
+
+# 👋 Hi, I'm Shayab Rahman
+
+### 💻 Frontend Developer | B.Tech IT Student | Problem Solver
+
+<p>
+  <a href="https://www.linkedin.com/in/shayab-rahman/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shayabrahman354@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React.js+%7C+JavaScript+Developer;B.Tech+Information+Technology+Student;Building+Responsive+Web+Applications" alt="Typing SVG" />
+
 </div>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=500&lines=Hello%2C+I'm+Shayab+Rahman;Developer;UI+/+UX+Designer+;" alt="Typing SVG" /></a>
-</p
-
-
-
-
 ---
+
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech Information Technology student at Techno International Newtown
-- 💻 Frontend Web Developer with hands-on experience in HTML5, CSS3, JavaScript, and React.js
-- 🌐 Interested in building responsive, user-friendly, and performance-focused web applications
-- 🧩 Strong foundation in Data Structures & Algorithms, DBMS, SQL, and Computer Networks
-- 🚀 Currently strengthening my skills in modern frontend development and exploring backend technologies
-- 🤝 Open to internships, entry-level opportunities, and collaborative software development projects
-- 📫 Reach me at: **shayabrahman354@gmail.com**
+- 🎓 B.Tech Information Technology student at **Techno International Newtown, Kolkata**
+- 💻 Frontend Developer with hands-on experience in **HTML5, CSS3, JavaScript, and React.js**
+- 🌐 Interested in building **responsive, user-friendly, and performance-focused web applications**
+- 🧠 Strong foundation in **Data Structures & Algorithms, DBMS, SQL, Operating Systems, and Computer Networks**
+- 🔧 Familiar with **Git, GitHub, MySQL, REST APIs, and modern frontend development**
+- 🚀 Currently strengthening my **backend development skills with Node.js and Express.js**
+- 🤝 Experienced in collaborative development, problem-solving, and team-based projects
+- 🏆 Team member in **Smart India Hackathon 2025**
+- 💼 Open to **on-campus placements, internships, and entry-level software development opportunities**
+- 📫 Email: **shayabrahman354@gmail.com**
 
+---
 
-## 🛠️ Languages & Tools
+## 🛠️ Technical Skills
 
-### Programming Languages
+### 💻 Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend Development
+### 🌐 Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A66C2?style=for-the-badge)
 
-### Tools & Technologies
+### 🔧 Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
+### 🚀 Currently Learning
 
-
----
-
-## 🔹 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shayab-rahman/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shayab_rahman/)
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-6C63FF?style=for-the-badge)
 
 ---
 
-![snake gif](https://github.com/Rudranil-12/Rudranil-12/blob/main/github-snake-dark.svg)
+## 🎓 Education
+
+**B.Tech in Information Technology**  
+Techno International Newtown, Kolkata  
+**2023 – 2027** | CGPA: **7.04/10** *(up to 6th semester)*
+
+**Higher Secondary Education (Class XII)**  
+Netaji Subhas Public School (DAV), Murshidabad  
+**2022** | Percentage: **79%**
+
+**Secondary Education (Class X)**  
+Netaji Subhas Public School (DAV), Murshidabad  
+**2020** | Percentage: **79%**
 
 ---
-  
-  **Thanks for visiting! ⭐ Star my repos if you find them interesting!**
+
+## 💼 Internship Experience
+
+### Frontend Developer Intern — Syntaxclub
+
+- Developed responsive and user-friendly web interfaces using **HTML5, CSS3, JavaScript, and React.js**
+- Implemented interactive UI components following **responsive web design principles**
+- Used **Git and GitHub** for version control and collaborative development
+- Worked on practical frontend development tasks involving reusable components and problem-solving
+
+---
+
+## 🚀 Featured Projects
+
+### 1. 🛒 Circuit Home — Electronics E-Learning & E-Commerce Platform
+
+A responsive web platform combining **electronics learning resources with e-commerce functionality**.
+
+**Key Features:**
+- Responsive and user-friendly interface
+- Built using **HTML5, CSS3, JavaScript, and React.js**
+- Hardware component browsing and product-focused layouts
+- Hands-on projects and hardware documentation
+- Navigation focused on usability and accessibility
+
+**Tech Stack:** `React.js` `JavaScript` `HTML5` `CSS3`
+
+🔗 **[View Project](#)**
+
+---
+
+### 2. 💼 Personal Portfolio Website
+
+A responsive portfolio website designed to showcase my **technical skills, projects, education, and achievements**.
+
+**Key Features:**
+- Responsive modern interface
+- Interactive UI components
+- Project and skills showcase
+- Clean navigation and user-focused design
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+
+🔗 **[View Project](#)**
+
+---
+
+### 3. 🌐 E-Commerce Website
+
+A responsive e-commerce website focused on providing a clean and intuitive shopping experience.
+
+**Key Features:**
+- Product-focused layouts
+- Responsive design
+- Interactive UI elements
+- Intuitive navigation
+- User-friendly browsing experience
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+
+🔗 **[View Project](#)**
+
+---
+
+### 4. 🌤️ Weather Application
+
+A web application that retrieves real-time weather information using a **REST API**.
+
+**Key Features:**
+- Real-time weather data
+- REST API integration
+- Dynamic result rendering
+- Responsive and user-friendly interface
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `REST API`
+
+🔗 **[View Project](#)**
+
+---
+
+## 📚 Relevant Coursework
+
+- Data Structures & Algorithms
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+
+---
+
+## 🏆 Achievements & Activities
+
+### 🥇 Smart India Hackathon 2025
+Team member contributing to collaborative problem-solving and innovative solution development.
+
+### 🧠 Communication & Critical Thinking
+Participated in college debate competitions, developing effective communication, analytical thinking, and presentation skills.
+
+### 🤝 Teamwork & Leadership
+Represented the IT department in the annual college cricket tournament, demonstrating teamwork and sportsmanship.
+
+### 🎤 Cultural Activities
+Performed as a vocalist at multiple college cultural events, developing confidence, creativity, and stage presence.
+
+---
+
+## 📊 Areas of Interest
+
+- Frontend Web Development
+- React.js Development
+- Full-Stack Web Development
+- REST API Integration
+- Data Structures & Algorithms
+- Database Management
+- Software Development
+
+---
+
+## 🎯 Career Objective
+
+I am looking for opportunities where I can apply my knowledge of **software development, frontend technologies, problem-solving, and databases** while learning from experienced teams and contributing to real-world projects.
+
+I am particularly interested in **Software Developer, Frontend Developer, React.js Developer, and entry-level Full-Stack Developer roles**.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shayab-rahman/">
+  <img src="https://img.shields.io/badge/LinkedIn-Shayab%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:shayabrahman354@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-shayabrahman354%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Improve."
+
+⭐ **Thanks for visiting my profile!**
+
 </div>
