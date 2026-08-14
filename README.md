@@ -89,8 +89,7 @@ A responsive web platform combining **electronics learning resources with e-comm
 **Tech Stack:**  
 `React.js` `JavaScript` `HTML5` `CSS3`
 
-🔗 **[GitHub Repository](YOUR_CIRCUIT_HOME_GITHUB_LINK)**  
-🔗 **[Live Demo](YOUR_CIRCUIT_HOME_LIVE_LINK)**
+🔗 **[Live Demo](https://circuithome.in/)**
 
 ---
 
@@ -107,9 +106,8 @@ A responsive portfolio website created to showcase my **skills, projects, educat
 
 **Tech Stack:**  
 `HTML5` `CSS3` `JavaScript`
-
-🔗 **[GitHub Repository](YOUR_PORTFOLIO_GITHUB_LINK)**  
-🔗 **[Live Demo](YOUR_PORTFOLIO_LIVE_LINK)**
+ 
+🔗 **[Live Demo](https://sr-portfolio3.vercel.app/)**
 
 ---
 
@@ -127,8 +125,7 @@ A responsive e-commerce website focused on providing a clean and intuitive brows
 **Tech Stack:**  
 `HTML5` `CSS3` `JavaScript`
 
-🔗 **[GitHub Repository](YOUR_ECOMMERCE_GITHUB_LINK)**  
-🔗 **[Live Demo](YOUR_ECOMMERCE_LIVE_LINK)**
+🔗 **[Live Demo](https://e-commerce-website-sr.vercel.app/)**
 
 ---
 
@@ -146,8 +143,7 @@ A web application that retrieves real-time weather information using a **REST AP
 **Tech Stack:**  
 `HTML5` `CSS3` `JavaScript` `REST API`
 
-🔗 **[GitHub Repository](YOUR_WEATHER_GITHUB_LINK)**  
-🔗 **[Live Demo](YOUR_WEATHER_LIVE_LINK)**
+🔗 **[Live Demo](https://sr-weather-app-3.vercel.app/)**
 
 ---
 
