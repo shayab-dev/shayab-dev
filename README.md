@@ -10,10 +10,14 @@
 
 
 ---
-## 🔹 About Me
-- 🎓 Third-year Information Technology Student
-- 🤝 Always open to collaborations on real-world projects
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and Data Structures & Algorithms**
+## 👨‍💻 About Me
+
+- 🎓 Final-year B.Tech Information Technology student at Techno International Newtown
+- 💻 Frontend Web Developer with hands-on experience in HTML5, CSS3, JavaScript, and React.js
+- 🌐 Interested in building responsive, user-friendly, and performance-focused web applications
+- 🧩 Strong foundation in Data Structures & Algorithms, DBMS, SQL, and Computer Networks
+- 🚀 Currently strengthening my skills in modern frontend development and exploring backend technologies
+- 🤝 Open to internships, entry-level opportunities, and collaborative software development projects
 - 📫 Reach me at: **shayabrahman354@gmail.com**
 
 
